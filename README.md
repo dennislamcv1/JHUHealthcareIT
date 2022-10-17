@@ -1,2 +1,7 @@
 # JHUHealthcareIT
-Healthcare IT Support Specialization
+## Healthcare IT Support Specialization
+
+### About this Specialization
+
+
+Are you looking to get your foot in the door as a Healthcare IT Support specialist? Do you want to solve technical problems for healthcare professionals and health system employees? Have you always wanted to enter an in-demand field in Health Information Technology? The courses in this specialization are designed to pique your interest regarding the ever-evolving field of IT support in healthcare. In order to help physicians, nurses, pharmacists, and a wide range of other allied health professionals and non-clinical staff, you need to be familiar with the basic language of healthcare. Through this 4-course specialization, we’ll take you on a whirlwind tour of what it means to play a critical role in maintaining the ongoing operations of a hospital, health system, clinic or other healthcare setting. You’ll be introduced to the basics of health IT fundamentals, the different technologies relevant to healthcare, and important aspects of data security, privacy and compliance. You’ll have an opportunity to hear stories of inspiration from health IT staff who once were in your shoes. Go behind-the-scenes at a large hospital to learn about the many ways in which IT support staff play a role in helping patients, providers and the population. You’ll even receive tips on job interviews and advice on how to succeed on this career path. 
